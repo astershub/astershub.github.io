@@ -1,10 +1,28 @@
-title {
+h1 {
     color: white;
     background-color: black;
     font-family: 'Playwrite GB S', cursive;  /* an example font that must match the Google font you have imported into your HTML */
   }
 
 body {
+    color: white;
+    background-color: black;
+    font-family: 'Raleway', sans-serif;
+  }
+
+container {
+     display: grid;
+ align-items: center; 
+ grid-template-columns: 1fr 1fr 1fr;
+ column-gap: 5px;
+}
+
+image {
+  max-width: 100%;
+  max-height:100%;
+}
+
+description {
     color: white;
     background-color: black;
     font-family: 'Raleway', sans-serif;
