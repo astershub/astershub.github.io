@@ -1,5 +1,11 @@
+head {
+    color: white;
+    background-color: black;
+    font-family: 'Playwrite GB S', cursive;  /* an example font that must match the Google font you have imported into your HTML */
+  }
+
 body {
     color: white;
     background-color: black;
-    font-family: 'Palette Mosaic', cursive;  /* an example font that must match the Google font you have imported into your HTML */
+    font-family: 'Raleway', sans-serif;
   }
