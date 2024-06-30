@@ -1,12 +1,12 @@
 h1 {
-    color: white;
-    background-color: black;
+    color: #4E5448;
+    background-color: #DAD1BF;
     font-family: 'Playwrite GB S', cursive;  /* an example font that must match the Google font you have imported into your HTML */
   }
 
 body {
-    color: white;
-    background-color: black;
+    color: black;
+    background-color: #DAD1BF;
     font-family: 'Raleway', sans-serif;
     margin-right: 60px;
     margin-bottom: 50px;
